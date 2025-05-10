@@ -1,0 +1,1 @@
+print("This is sample file to check whether repo is uploaded to GitHub")
